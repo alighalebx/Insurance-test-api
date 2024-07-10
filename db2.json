@@ -1,0 +1,45 @@
+{
+  "brands": [
+    "Brand A",
+    "Brand B",
+    "Brand C"
+  ],
+  "models": {
+    "Brand A": [
+      "Model A1",
+      "Model A2"
+    ],
+    "Brand B": [
+      "Model B1"
+    ],
+    "Brand C": [
+      "Model C1"
+    ]
+  },
+  "insurancePolicies": [
+    {
+      "id": 1,
+      "brand": "Brand A",
+      "model": "Model A1",
+      "premium": 2900,
+      "rate": "1.5%",
+      "company": "UIC Pakistan"
+    },
+    {
+      "id": 2,
+      "brand": "Brand A",
+      "model": "Model A2",
+      "premium": 3200,
+      "rate": "1.7%",
+      "company": "UIC Pakistan"
+    },
+    {
+      "id": 3,
+      "brand": "Brand B",
+      "model": "Model B1",
+      "premium": 3000,
+      "rate": "1.6%",
+      "company": "UIC Pakistan"
+    }
+  ]
+}
