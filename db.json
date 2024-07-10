@@ -1,0 +1,48 @@
+{
+  "carInsurance": [
+    {
+      "id": 1,
+      "carBrand": "Brand A",
+      "carModel": "Model A1",
+      "manufacturedYear": "2020",
+      "carValue": "20000"
+    },
+    {
+      "id": 2,
+      "carBrand": "Brand B",
+      "carModel": "Model B1",
+      "manufacturedYear": "2019",
+      "carValue": "18000"
+    },
+    {
+      "id": 3,
+      "carBrand": "Brand C",
+      "carModel": "Model C1",
+      "manufacturedYear": "2021",
+      "carValue": "25000"
+    },
+    {
+      "id": 4,
+      "carBrand": "Brand A",
+      "carModel": "Model A2",
+      "manufacturedYear": "2018",
+      "carValue": "15000"
+    }
+  ],
+  "brands": [
+    "Brand A",
+    "Brand B",
+    "Brand C"
+  ],
+  "models": {
+    "Brand A": ["Model A1", "Model A2"],
+    "Brand B": ["Model B1"],
+    "Brand C": ["Model C1"]
+  },
+  "manufacturedYears": [
+    "2018",
+    "2019",
+    "2020",
+    "2021"
+  ]
+}
